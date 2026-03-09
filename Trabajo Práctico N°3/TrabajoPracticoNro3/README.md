@@ -19,15 +19,6 @@ Ambos casos capturan el valor recibido y lo muestran en la consola del servidor.
 - Node.js >= 18 instalado en tu máquina
 - NPM >= 9 (se instala junto con Node.js)
 
-## Cómo ejecutar
-
-### Actividad 1 — Parámetros de ruta
-node serverRuta.mjs
-# Servidor disponible en http://localhost:3000
-
-### Actividad 2 — Parámetros de consulta
-node serverConsulta.mjs
-# Servidor disponible en http://localhost:3000
 
 ## Estructura del proyecto
 tp3/
