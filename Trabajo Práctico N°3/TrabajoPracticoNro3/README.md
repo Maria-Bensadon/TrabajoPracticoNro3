@@ -15,10 +15,6 @@ Ambos casos capturan el valor recibido y lo muestran en la consola del servidor.
 - Express v4 (libreria utilizada)
 - NPM (gestiona las librerias del proyecto)
 
-## Requisitos previos
-- Node.js >= 18 instalado en tu máquina
-- NPM >= 9 (se instala junto con Node.js)
-
 
 ## Estructura del proyecto
 tp3/
@@ -27,9 +23,6 @@ tp3/
 ├── serverConsulta.mjs   # Servidor con parámetro de consulta (?edad)
 └── package.json
 
-## Endpoints disponibles
-- GET `/user/:id` → El valor de id se lee desde la URL y se imprime en consola
-- GET `/profile?edad=30` → El valor de edad se lee desde el query string y se imprime en consola
 
 ## Autor
 Gabriela Centeno — Diplomatura Fullstack, Módulo 3
