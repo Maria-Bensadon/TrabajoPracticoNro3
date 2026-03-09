@@ -19,11 +19,6 @@ Ambos casos capturan el valor recibido y lo muestran en la consola del servidor.
 - Node.js >= 18 instalado en tu máquina
 - NPM >= 9 (se instala junto con Node.js)
 
-## Instalación
-git clone https://github.com/tuusuario/tp3-backend-nodejs.git
-cd tp3-backend-nodejs
-npm install
-
 ## Cómo ejecutar
 
 ### Actividad 1 — Parámetros de ruta
@@ -45,9 +40,5 @@ tp3/
 - GET `/user/:id` → El valor de id se lee desde la URL y se imprime en consola
 - GET `/profile?edad=30` → El valor de edad se lee desde el query string y se imprime en consola
 
-## Scripts disponibles (comandos cortos definidos en el package.json)
-npm start
-npm test
-
 ## Autor
-Tu Nombre — Diplomatura Fullstack, Módulo 3
+Gabriela Centeno — Diplomatura Fullstack, Módulo 3
